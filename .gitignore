@@ -172,3 +172,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+all_houses.csv
+*.json
